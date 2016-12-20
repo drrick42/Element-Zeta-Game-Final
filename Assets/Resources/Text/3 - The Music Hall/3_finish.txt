@@ -1,0 +1,7 @@
+This facility will misguide you.
+&&You reached this pedestal without instruction to
+do so.
+&&You must be different from the others.
+&&Let me warn you of this:
+&&Element Zeta is not something to be trifled with.
+You are being treated like a lab rat.

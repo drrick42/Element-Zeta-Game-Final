@@ -1,0 +1,29 @@
+This is The Chasm.
+&&
+&&Unfortunately, the game's brief narrative story 
+has no resolution in the demo copy of Element Zeta.
+&&We hope you enjoyed the gameplay.
+&&We hope the narrative complemented the puzzles.
+&&The Chasm is the final level of the game.
+&&But it doesn't have to be the end.
+&&
+&&This project may be further developed.
+&&Or it may be abandoned.
+&&
+&&Either way, your participation has been 
+appreciated.
+&&
+&&Element Zeta Developers:
+&&"I have pity for anyone who actually plays our
+game."
+-Ben Allen
+&&"To debug, or not to debug: that is the segfault."
+-Jin Cheah
+&&"Well, at least this can go on a GitHub repo and
+make it look like I sort of know what I'm doing."
+-Derrick Dent
+&&"I think I need arrays."
+-Gwen Stevens
+&&"Now that the game's almost done, let's scrap it and
+make a Farmville clone."
+-Logan Wilson

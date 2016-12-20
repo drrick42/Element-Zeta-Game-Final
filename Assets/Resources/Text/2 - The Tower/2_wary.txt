@@ -1,0 +1,8 @@
+Be wary of any other entities you may encounter here
+in the facility.
+&&While we work to keep these tests contained, there
+is a risk of some unintended... Contaminations.
+&&If you follow the facility protocol, your safety
+can be effeciently ensured.
+&&If something appears to be a breach of facility
+protocol: it is.

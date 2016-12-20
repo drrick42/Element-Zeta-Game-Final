@@ -1,0 +1,7 @@
+I have intercepted the facility's control.
+&&The facility will be watching you closely.
+&&Follow instructions as given until you hear from
+me again.
+&&To keep you safe, we have to maintain the guise
+that you are still under their control.
+&&Good luck.

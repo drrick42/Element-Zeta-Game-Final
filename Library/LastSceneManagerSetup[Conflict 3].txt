@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/World/Puzzles/NewHubRoom.unity
+  isLoaded: 1
+  isActive: 1

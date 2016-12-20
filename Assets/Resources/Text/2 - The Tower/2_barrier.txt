@@ -1,0 +1,3 @@
+This a barrier. You may pass through, but they will
+prevent you from taking objects through.
+&&These are implemented for your safety.

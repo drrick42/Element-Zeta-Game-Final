@@ -1,0 +1,6 @@
+Welcome to The Tower.
+&&Here we will introduce more mechanical aspects in
+order to further challenge you.
+&&These buttons will be triggered by dropping
+objects on them.
+&&Learn to manage your resources and reach the top.

@@ -1,0 +1,112 @@
+********************************************************************************
+*                             Initializing Cubiquity                           *
+********************************************************************************
+[12:05:34, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/3C3AF73C.vdb'
+[12:05:35, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/4F22549E.vdb'
+[12:05:35, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/4F09411C.vdb'
+[12:05:36, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/5D926855.vdb'
+[12:05:37, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/32BCFB45.vdb'
+[12:07:35, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:07:35, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:07:35, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:07:35, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:07:35, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:08:14, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/6C6AD4ED.vdb'
+[12:08:14, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/4C8382EA.vdb'
+[12:08:15, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/36EFEB5F.vdb'
+[12:08:16, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/36399B3B.vdb'
+[12:14:48, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:14:48, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:14:48, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:14:48, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:15:17, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/6E436CFF.vdb'
+[12:15:18, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/14A56100.vdb'
+[12:18:39, Info   ]: Creating voxel database from 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/6E436CFF.vdb'
+[12:19:53, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:19:53, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:20:19, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/06520023.vdb'
+[12:20:20, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/09E0C8C3.vdb'
+[12:20:21, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/70B6B1A5.vdb'
+[12:22:19, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:22:19, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:22:19, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:22:42, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/7DDC0175.vdb'
+[12:22:43, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/24FDF18F.vdb'
+[12:22:44, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/02957DCA.vdb'
+[12:22:44, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/298392D9.vdb'
+[12:22:45, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/68650C40.vdb'
+[12:22:46, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/4389B0E5.vdb'
+[12:22:46, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/72C969DB.vdb'
+[12:22:47, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/51C0CC76.vdb'
+[12:22:47, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/0783B96E.vdb'
+[12:22:48, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/10A7BF22.vdb'
+[12:22:49, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/2267B597.vdb'
+[12:22:49, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/653FF394.vdb'
+[12:22:50, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/41EEBBE8.vdb'
+[12:22:50, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/18785FC3.vdb'
+[12:22:51, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/112A6BD8.vdb'
+[12:22:52, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/51B621DD.vdb'
+[12:22:53, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/0185E9BB.vdb'
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:30:37, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:31:03, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/3B9B5B18.vdb'
+[12:31:04, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/43A01EF5.vdb'
+[12:31:05, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/47C1B246.vdb'
+[12:32:53, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:32:53, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:32:53, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:33:15, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/1934AC63.vdb'
+[12:33:16, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/5E62E4DA.vdb'
+[12:33:17, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/0746732E.vdb'
+[12:33:17, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/720D18DC.vdb'
+[12:33:18, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/57F0E70B.vdb'
+[12:35:42, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:35:42, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:35:42, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:35:42, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:35:42, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:36:22, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/454B7F72.vdb'
+[12:36:23, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/0FB5C0AB.vdb'
+[12:36:23, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/0729844E.vdb'
+[12:36:24, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/4C5ABED2.vdb'
+[12:36:25, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/1212EC7A.vdb'
+[12:36:26, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/33AB8893.vdb'
+[12:36:27, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/08E24013.vdb'
+[12:40:15, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:15, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:15, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:16, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:16, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:16, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:16, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:40:40, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/60D78506.vdb'
+[12:40:41, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/362383CE.vdb'
+[12:40:41, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/6AEB01CC.vdb'
+[12:40:42, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/2B4BF8F8.vdb'
+[12:40:42, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/1E6A06B1.vdb'
+[12:40:43, Info   ]: Creating empty voxel database as 'C:/Users/derrick/AppData/Local/Temp/DefaultCompany/ElementZeta/6B199192.vdb'
+[12:46:24, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:46:24, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:46:24, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:46:24, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:46:24, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+[12:46:24, Info   ]: Resizing compressed data buffer to 144307bytes. This should only happen once
+********************************************************************************
+*                             Shutting down Cubiquity                          *
+********************************************************************************
+

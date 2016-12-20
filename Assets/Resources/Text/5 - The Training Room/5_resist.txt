@@ -1,0 +1,5 @@
+You resist their control.
+&&I have successfullycut communications with those
+in the facility.
+&&Continue through The Training Room. I will further
+instruct you when you reach the pedastal.

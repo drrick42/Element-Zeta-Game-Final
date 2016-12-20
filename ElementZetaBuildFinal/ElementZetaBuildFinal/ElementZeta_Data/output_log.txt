@@ -1,0 +1,255 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     1265 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.260 seconds
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\derrick\Desktop\ElementZetaBuildFinal (1)\ElementZetaBuildFinal\ElementZeta_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 3046x1050 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.181377 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 333c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 41.941143 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 3.910293 ms (FindLiveObjects: 0.586826 ms CreateObjectMapping: 0.217495 ms MarkObjects: 1.934371 ms  DeleteObjects: 1.168522 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 260.036316 ms
+
+Unloading 6017 unused Assets to reduce memory usage. Loaded Objects now: 2221.
+Total: 106.923927 ms (FindLiveObjects: 2.773574 ms CreateObjectMapping: 2.759724 ms MarkObjects: 7.160920 ms  DeleteObjects: 94.224075 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.555962 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2221.
+Total: 2.401678 ms (FindLiveObjects: 0.588878 ms CreateObjectMapping: 0.143628 ms MarkObjects: 1.566579 ms  DeleteObjects: 0.097975 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.556233 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2221.
+Total: 2.322169 ms (FindLiveObjects: 0.566820 ms CreateObjectMapping: 0.144654 ms MarkObjects: 1.545548 ms  DeleteObjects: 0.061555 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.102356 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2641.
+Total: 3.125464 ms (FindLiveObjects: 0.644277 ms CreateObjectMapping: 0.173380 ms MarkObjects: 2.188287 ms  DeleteObjects: 0.117980 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TriggeredStream.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TimerDialogue.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 240.534103 ms
+
+Unloading 1672 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 26.441032 ms (FindLiveObjects: 1.031049 ms CreateObjectMapping: 0.557587 ms MarkObjects: 1.948734 ms  DeleteObjects: 22.899044 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.593407 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 3.248062 ms (FindLiveObjects: 0.658640 ms CreateObjectMapping: 0.141576 ms MarkObjects: 2.291392 ms  DeleteObjects: 0.152862 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.953807 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 8398.
+Total: 7.364565 ms (FindLiveObjects: 2.312423 ms CreateObjectMapping: 0.543224 ms MarkObjects: 4.303220 ms  DeleteObjects: 0.203645 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 136.916183 ms
+
+Unloading 123 unused Assets to reduce memory usage. Loaded Objects now: 2228.
+Total: 9.483089 ms (FindLiveObjects: 0.570411 ms CreateObjectMapping: 0.160043 ms MarkObjects: 2.052865 ms  DeleteObjects: 6.695666 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.730639 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2228.
+Total: 5.361970 ms (FindLiveObjects: 0.552970 ms CreateObjectMapping: 0.151836 ms MarkObjects: 4.294500 ms  DeleteObjects: 0.359071 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.643405 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2228.
+Total: 3.089044 ms (FindLiveObjects: 0.673516 ms CreateObjectMapping: 0.171841 ms MarkObjects: 2.147763 ms  DeleteObjects: 0.090280 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.627325 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 3267.
+Total: 3.249601 ms (FindLiveObjects: 0.664283 ms CreateObjectMapping: 0.148245 ms MarkObjects: 2.219577 ms  DeleteObjects: 0.214930 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 121.469421 ms
+
+Unloading 3414 unused Assets to reduce memory usage. Loaded Objects now: 2231.
+Total: 54.616894 ms (FindLiveObjects: 1.670197 ms CreateObjectMapping: 1.580429 ms MarkObjects: 2.083130 ms  DeleteObjects: 49.275955 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.092004 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2231.
+Total: 3.241393 ms (FindLiveObjects: 0.706858 ms CreateObjectMapping: 0.143115 ms MarkObjects: 2.319091 ms  DeleteObjects: 0.068736 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.679132 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2894.
+Total: 14.082290 ms (FindLiveObjects: 0.725838 ms CreateObjectMapping: 0.192359 ms MarkObjects: 12.924025 ms  DeleteObjects: 0.236987 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TimerDialogue.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TimerDialogue.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 704.536072 ms
+
+Unloading 5011 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 90.545631 ms (FindLiveObjects: 1.801002 ms CreateObjectMapping: 2.161100 ms MarkObjects: 5.902629 ms  DeleteObjects: 80.674744 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.451558 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 3.633295 ms (FindLiveObjects: 0.817145 ms CreateObjectMapping: 0.338553 ms MarkObjects: 2.409372 ms  DeleteObjects: 0.065658 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.763561 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 1017.
+Total: 4.260645 ms (FindLiveObjects: 0.481156 ms CreateObjectMapping: 0.117467 ms MarkObjects: 2.181618 ms  DeleteObjects: 1.477837 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TriggeredStream.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 135.497849 ms
+
+Unloading 631 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 16.317768 ms (FindLiveObjects: 5.106516 ms CreateObjectMapping: 0.476026 ms MarkObjects: 2.163152 ms  DeleteObjects: 8.565917 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.809091 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 3.065961 ms (FindLiveObjects: 0.572463 ms CreateObjectMapping: 0.125162 ms MarkObjects: 2.304216 ms  DeleteObjects: 0.060016 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.929093 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 3.155216 ms (FindLiveObjects: 0.499110 ms CreateObjectMapping: 0.114390 ms MarkObjects: 2.451948 ms  DeleteObjects: 0.085664 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.250057 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 5690.
+Total: 7.231196 ms (FindLiveObjects: 1.281886 ms CreateObjectMapping: 0.273920 ms MarkObjects: 5.469178 ms  DeleteObjects: 0.203645 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TriggeredStream.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 255.811569 ms
+
+Unloading 1929 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 28.064550 ms (FindLiveObjects: 1.344467 ms CreateObjectMapping: 0.789445 ms MarkObjects: 2.703298 ms  DeleteObjects: 23.223747 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.240732 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 3.566610 ms (FindLiveObjects: 0.785341 ms CreateObjectMapping: 0.219033 ms MarkObjects: 2.495037 ms  DeleteObjects: 0.064119 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 52.926693 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 4.092907 ms (FindLiveObjects: 0.619142 ms CreateObjectMapping: 0.172867 ms MarkObjects: 3.189071 ms  DeleteObjects: 0.107208 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.667514 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 3.312182 ms (FindLiveObjects: 0.551944 ms CreateObjectMapping: 0.140551 ms MarkObjects: 2.532483 ms  DeleteObjects: 0.084638 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 16.018198 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 1868.
+Total: 3.976465 ms (FindLiveObjects: 0.485260 ms CreateObjectMapping: 0.172867 ms MarkObjects: 3.183942 ms  DeleteObjects: 0.130804 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at TriggeredStream.OnTriggerExit (UnityEngine.Collider collidedWith) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 287.418121 ms
+
+Unloading 4288 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 57.700809 ms (FindLiveObjects: 1.808183 ms CreateObjectMapping: 1.886666 ms MarkObjects: 5.524578 ms  DeleteObjects: 48.477276 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.174288 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 4.362724 ms (FindLiveObjects: 0.922814 ms CreateObjectMapping: 0.431399 ms MarkObjects: 2.939260 ms  DeleteObjects: 0.065145 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.029664 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 4.221660 ms (FindLiveObjects: 0.699677 ms CreateObjectMapping: 0.170302 ms MarkObjects: 3.269093 ms  DeleteObjects: 0.078995 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.734324 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 3473.
+Total: 5.880059 ms (FindLiveObjects: 0.804834 ms CreateObjectMapping: 0.279050 ms MarkObjects: 3.718446 ms  DeleteObjects: 1.075676 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 315.995636 ms
+
+Unloading 13864 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 301.628662 ms (FindLiveObjects: 4.377087 ms CreateObjectMapping: 4.651520 ms MarkObjects: 2.626354 ms  DeleteObjects: 289.960876 ms)
+

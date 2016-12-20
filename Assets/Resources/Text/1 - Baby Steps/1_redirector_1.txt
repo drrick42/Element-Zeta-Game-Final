@@ -1,0 +1,3 @@
+The object in front of you does not change the
+state of Element Zeta into a light.
+&&Instead, it redirects it at an angle.

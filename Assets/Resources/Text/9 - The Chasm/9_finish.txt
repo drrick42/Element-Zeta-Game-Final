@@ -1,0 +1,13 @@
+Wait.
+&&You've completed The Chasm.
+&&You've played Element Zeta.
+&&What will you do now?
+&&The pedestal will take you to the hub.
+&&Like it always has.
+&&Is that what you want?
+&&Start the whole thing over?
+&&
+&&Or will you walk away?
+&&Never to experience Element Zeta again?
+&&
+&&The choice is yours.

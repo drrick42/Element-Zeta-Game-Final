@@ -1,0 +1,87 @@
+PuzzleElement
+Grabbable:		true
+TextApparent:	false
+Memorable:	true
+
+FixedPuzzleElement~PuzzleElement
+Grabbable:	false
+Memorable:	false
+
+Sign
+TextApparent:	true
+
+Diffuser~PuzzleElement
+Text:		Diffuser. It diffuses things.
+
+FixedDiffuser~FixedPuzzleElement
+Text:		A mounted diffuser. Cannot be moved.
+Grabbable:	false
+
+TestTextPlate~Sign
+Text:			This has been a test of the on-screen tooltip feature. Thank you for demoing.
+TextApparent:	true
+
+Level1TestPlate~Sign
+Text:			Through this door is your first level.
+TextApparent:	true
+
+Leve2TestPlate~Sign
+Text:			Through this door is your second level.
+TextApparent:	true
+
+Emitter~FixedPuzzleElement
+Text:	Laser Emitter
+
+PrimitiveShape~PuzzleElement
+Text:		An opague object with no special properties.
+
+GwenPic~Sign
+Text:	Gwen Stevens\nblah
+
+DerrickPic~Sign
+Text:	Derrick Dent\nI wrote this. And all was well in the game.
+
+LoganPic~Sign
+Text:	Logan Wilson\nblah blah blah
+
+JinPic~Sign
+Text:	Jin Cheah\nblah blah blah
+
+BenPic~Sign
+Text:	Ben Allen\nI generally object to hint systems
+
+SomeThings~Sign
+Text:	What you need depends on the obstacles that lie ahead
+
+Redirector~PuzzleElement
+Text:	Redirection prism
+
+Player
+Memorable:	false
+
+Level1~Sign
+Text:	Baby Steps
+
+Level2~Sign
+Text:	The Tower
+
+Level3~Sign
+Text:	The Music Hall
+
+Level4~Sign
+Text:	The Dark Room
+
+Level5~Sign
+Text:	The Training Room
+
+Level6~Sign
+Text:	The First Trial
+
+Level7~Sign
+Text:	The Second Trial
+
+Level8~Sign
+Text:	The Third Trial
+
+Level9~Sign
+Text:	The Chasm

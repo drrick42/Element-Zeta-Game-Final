@@ -1,0 +1,7 @@
+Light Solid material reacts inversely to Element
+Zeta.
+&&While it lacks physical properties in normal
+conditions, it is visible, and more importantly,
+solid when exposed to Element Zeta light.
+&&Stack those blocks to cast a shadow, and you will
+be able pass through this wall of Light Solid.

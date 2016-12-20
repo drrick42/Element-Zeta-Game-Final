@@ -1,0 +1,8 @@
+You have reached the conclusion of the facility's
+test.
+&&I have something to show you now.
+&&Regardless of if you have overcome their control
+or remain a piece of the facility's game,
+&&You must choose.
+&&The Chasm.
+&&Go there.
